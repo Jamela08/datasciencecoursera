@@ -1,1 +1,2 @@
 echo “>*.dll” >.gitignore
+git add .gitignore
